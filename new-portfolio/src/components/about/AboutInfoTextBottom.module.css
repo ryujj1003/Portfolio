@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+}
+
+.content {
+  width: 12rem;
+}
+
+.text-bold {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.text-gray {
+  color: #9c9c9c;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

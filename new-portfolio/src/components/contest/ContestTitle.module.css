@@ -1,0 +1,7 @@
+.title {
+  color: white;
+  flex-direction: column;
+  font-size: 40px;
+  padding-right: 60%;
+  line-height: 0%;
+}

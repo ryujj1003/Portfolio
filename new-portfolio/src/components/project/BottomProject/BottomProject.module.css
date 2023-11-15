@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  text-align: center;
+}
+
+.img {
+  width: 50%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  background-color: #D9D9D9;
+  background-image: url('https://www.researchgate.net/profile/Ahmet-Sayar/publication/261960573/figure/fig1/AS:392517750149120@1470594932033/Proposed-system-architecture-with-school-level-proxy-in-Fatih-Project.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.latest {
+  padding: 0.5rem 1rem;
+  background-color: #D9D9D9;
+  font-size: 1.25rem;
+  font-weight: 350;
+  text-align: center;
+  border-radius: 2rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 900;
+  line-height: normal;
+  color: white;
+}
+
+.small-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #9c9c9c;
+  font-weight: 600;
+}

@@ -1,0 +1,14 @@
+.container {
+    background: url(/src/assets/intro-background.png) no-repeat center center/cover;
+    height: 35rem;
+}
+
+.mainbanner {
+    position: relative;
+}
+
+hr {
+    position: relative;
+    width: 100%;
+    border: 1px solid white;
+}

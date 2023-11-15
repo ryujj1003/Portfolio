@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  width: 100%;
+  align-items: center;
+  padding-right: 4rem;
+  padding-left: 4rem;
+  box-sizing: border-box;
+  gap: 4rem;
+  background-color: black;
+}
+
+.divider {
+  width: 80%;
+  border: 2px solid gray;
+}

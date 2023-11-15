@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    margin-top: 3rem;
+}
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background: white;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    position: relative;
+}
+
+.github,
+.discord,
+.blog,
+.email {
+    margin-top: 0.4rem;
+    fill: black;
+}

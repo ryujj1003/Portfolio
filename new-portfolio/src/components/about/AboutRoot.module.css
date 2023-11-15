@@ -1,0 +1,13 @@
+.container {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 3.75rem;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
